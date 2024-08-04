@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: goweb2.revanthreddych.com
+  - host: web.revanthreddych.com
     http:
       paths: 
       - path: /
